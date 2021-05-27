@@ -1,0 +1,29 @@
+[debug] [2021-04-24T12:59:58.815Z] ----------------------------------------------------------------------
+[debug] [2021-04-24T12:59:58.817Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Alan PC\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2021-04-24T12:59:58.818Z] CLI Version:   9.10.0
+[debug] [2021-04-24T12:59:58.818Z] Platform:      win32
+[debug] [2021-04-24T12:59:58.818Z] Node Version:  v14.15.5
+[debug] [2021-04-24T12:59:58.819Z] Time:          Sat Apr 24 2021 19:59:58 GMT+0700 (Western Indonesia Time)
+[debug] [2021-04-24T12:59:58.820Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-24T12:59:58.833Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-24T12:59:58.834Z] > authorizing via signed-in user (erevalan@gmail.com)
+[debug] [2021-04-24T12:59:58.834Z] [iam] checking project yeeee-3299a for permissions ["firebase.projects.get"]
+[debug] [2021-04-24T12:59:58.837Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/yeeee-3299a:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
+[debug] [2021-04-24T12:59:59.987Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Sat, 24 Apr 2021 13:00:00 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=954","alt-svc":"h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-04-24T12:59:59.989Z] > refreshing access token with scopes: []
+[debug] [2021-04-24T12:59:59.989Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2021-04-24T13:00:00.160Z] <<< HTTP RESPONSE 200 {"cache-control":"no-cache, no-store, max-age=0, must-revalidate","date":"Sat, 24 Apr 2021 13:00:00 GMT","pragma":"no-cache","expires":"Mon, 01 Jan 1990 00:00:00 GMT","content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-04-24T13:00:00.186Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/yeeee-3299a [none]
+[debug] [2021-04-24T13:00:00.567Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/yeeee-3299a 200
+[debug] [2021-04-24T13:00:00.567Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/yeeee-3299a {"projectId":"yeeee-3299a","projectNumber":"479728845654","displayName":"yeeee","name":"projects/yeeee-3299a","resources":{"hostingSite":"yeeee-3299a","storageBucket":"yeeee-3299a.appspot.com","locationId":"us-central"},"state":"ACTIVE"}
+[info] 
+[info] === Serving from 'C:\xampp\htdocs\PemBeFrame\pert11'...
+[info] 
+[debug] [2021-04-24T13:00:00.575Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/yeeee-3299a/webApps/-/config [none]
+[debug] [2021-04-24T13:00:01.761Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/yeeee-3299a/webApps/-/config 200
+[debug] [2021-04-24T13:00:01.761Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/yeeee-3299a/webApps/-/config {"projectId":"yeeee-3299a","storageBucket":"yeeee-3299a.appspot.com","locationId":"us-central","apiKey":"AIzaSyB45RJMx--Uu0T9m3huHkWYbfhodJmtrZY","authDomain":"yeeee-3299a.firebaseapp.com","messagingSenderId":"479728845654"}
+[info] i  hosting: Serving hosting files from: build {"metadata":{"emulator":{"name":"hosting"},"message":"Serving hosting files from: \u001b[1mbuild\u001b[22m"}}
+[info] +  hosting: Local server: http://localhost:5000 {"metadata":{"emulator":{"name":"hosting"},"message":"Local server: \u001b[4m\u001b[1mhttp://localhost:5000\u001b[22m\u001b[24m"}}

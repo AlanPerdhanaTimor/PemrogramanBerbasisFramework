@@ -1,0 +1,74 @@
+{
+  "barang": [
+    {
+      "id": 1,
+      "namaproduk": "MIYAKO Kipas Angin Dinding 16 KAW-1662 Hijau",
+      "harga": 275000,
+      "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2018/8/15/2133427/2133427_58aad4f4-3e2c-4ea6-9b17-5a995def6426_700_700.jpg",
+      "stock": 5
+    },
+    {
+      "id": 2,
+      "namaproduk": "Xiaomi Mijia Lexiu SS4 Floor Leafless Bladeless",
+      "harga": 1765000,
+      "gambar": "https://fujishop.id/bali/wp-content/uploads/2020/06/mijia-lexiu-ss4-d.jpg",
+      "stock": 3
+    },
+    {
+      "id": 3,
+      "namaproduk": "Miyako KAD-1227 B PL Kipas Angin Meja Dinding 2in1 12 inch",
+      "harga": 170500,
+      "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2020/8/13/101237319/101237319_d7c3adc7-01b2-44c8-bbbf-b7efdb740a0e_700_700",
+      "stock": 4
+    },
+    {
+      "id": 4,
+      "namaproduk": "COSMOS Kipas Angin Dinding 16 Inch - 16-WFG",
+      "harga": 249000,
+      "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/12/7/10b7d8e1-d4a3-4fcd-ad68-3abdf481a16d.jpg",
+      "stock": 6
+    },
+    {
+      "id": 5,
+      "namaproduk": "Kipas Angin Besi TORNADO AOYAMA 18 3 in 1",
+      "harga": 185000,
+      "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2020/8/25/10990970/10990970_d3764f04-ca2f-478e-8d11-2c96bca4de23_700_700",
+      "stock": 6
+    },
+    {
+      "id": 6,
+      "namaproduk": "KIPAS ANGIN DINDING NAGOYA (WALL FAN) 12INC NG12WF",
+      "harga": 125000,
+      "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/1/29/701391d5-baa1-4523-b082-742fed07a425.jpg",
+      "stock": 4
+    },
+    {
+      "id": 7,
+      "namaproduk": "52in Kipas Angin Lampu Hias Dekor 5552",
+      "harga": 2375000,
+      "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2019/10/15/6310764/6310764_bf0c03c1-d76e-41e7-9e6f-cde64366a135_700_700",
+      "stock": 2
+    },
+    {
+      "id": 8,
+      "namaproduk": "Mijia Smartmi Dnq04zm Kipas Angin Dinding Radiator Penghangat",
+      "harga": 4219900,
+      "gambar": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2020/11/19/ab86548a-b2d2-484e-9373-fab47528d107.jpg",
+      "stock": 8
+    },
+    {
+      "id": 9,
+      "namaproduk": "KDK KIPAS ANGIN HISAP / EXHAUST FAN INDUSTRIAL 16 INCH 40AAS",
+      "harga": 660000,
+      "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/11/12/e156ae0e-910a-47a8-8c3f-f19b27076c06.jpg",
+      "stock": 4
+    },
+    {
+      "id": 10,
+      "namaproduk": "Kipas Angin Remote Control Kipas Dinding Kipas Murah Um415",
+      "harga": 3716000,
+      "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2020/9/5/112432054/112432054_54493b75-f0f4-4908-a0c1-395218eb7b00_680_680.jpg",
+      "stock": 6
+    }
+  ]
+}
